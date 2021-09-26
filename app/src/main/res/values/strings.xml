@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Memes Generator</string>
+
+    <string-array name="meme">
+        <item>10 Guy</item>
+        <item>1950s Middle Finger</item>
+        <item>1990s First World Problems</item>
+        <item>1st World Canadian Problems</item>
+        <item>2nd Term Obama</item>
+
+       <item>Aaaaand Its Gone</item>
+
+        <item>Ace Primo</item>
+
+        <item>Actual Advice Mallard</item>
+
+        <item>Adalia Rose</item>
+
+        <item>Admiral Ackbar Relationship Expert</item>
+
+        <item>Advice Dog</item>
+
+        <item>Advice Doge</item>
+
+        <item>Advice God</item>
+
+        <item>Advice Peeta</item>
+
+        <item>Advice Tam</item>
+
+        <item>Advice Yoda</item>
+
+        <item>Afraid To Ask Andy</item>
+
+        <item>Afraid To Ask Andy Closeup</item>
+
+        <item>Aint Nobody Got Time For That</item>
+
+        <item>Alan Greenspan</item>
+
+        <item>Alarm Clock</item>
+
+        <item>Albert Cagestein</item>
+
+        <item>Albert Einstein 1</item>
+
+    </string-array>
+
+</resources>
